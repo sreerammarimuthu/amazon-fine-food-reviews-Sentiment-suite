@@ -29,7 +29,7 @@ Label rule: `Score>3 = positive`, `Score≤3 = negative`.
 | Word2Vec + Logistic Regression   | Dense Embeddings    | 78.63 %     |
 | Word2Vec + Linear SVC            | Dense Embeddings    | 78.62 %     |
 
-## Key Takeaways    
+## Takeaways    
 
 - Pre-trained BERT already beats most classical baselines even without a single gradient step.
 - Fine-tuning (standard or LoRA) moves BERT closer to the TF-IDF + Random Forest champ, but the zero-shot model still outperforms them all.
