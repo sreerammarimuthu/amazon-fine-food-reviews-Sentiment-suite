@@ -1,2 +1,2 @@
-# Amazon Fine-Food Review Sentiment Suite
+# Amazon Fine-Foods Review Sentiment Suite
 
